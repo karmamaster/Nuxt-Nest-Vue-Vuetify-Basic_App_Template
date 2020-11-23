@@ -1,0 +1,21 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/contact.js": "pages/contact.js",
+    "pages/faq.js": "pages/faq.js",
+    "pages/index.js": "pages/index.js",
+    "pages/manage/accountinfo.js": "pages/manage/accountinfo.js",
+    "pages/manage/index.js": "pages/manage/index.js",
+    "pages/newaccount.js": "pages/newaccount.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/contact.js": "pages/contact.js.map",
+    "pages/faq.js": "pages/faq.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/manage/accountinfo.js": "pages/manage/accountinfo.js.map",
+    "pages/manage/index.js": "pages/manage/index.js.map",
+    "pages/newaccount.js": "pages/newaccount.js.map",
+    "server.js": "server.js.map"
+  }
+}

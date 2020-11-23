@@ -1,0 +1,26 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "LazyVuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "KrakenFooter": {
+    "description": "Auto imported from components/General/krakenFooter.vue"
+  },
+  "LazyKrakenFooter": {
+    "description": "Auto imported from components/General/krakenFooter.vue"
+  },
+  "KrakenHeader": {
+    "description": "Auto imported from components/General/krakenHeader.vue"
+  },
+  "LazyKrakenHeader": {
+    "description": "Auto imported from components/General/krakenHeader.vue"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\02.Repositories\\\\websites\\\\proxyDistributeWebsiteKrak\\\\client\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_400c699c"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "D:\\\\02.Repositories\\\\websites\\\\proxyDistributeWebsiteKrak\\\\client\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_652b7792"
+  },
+  {
+    "name": "manage",
+    "path": "/manage",
+    "component": "D:\\\\02.Repositories\\\\websites\\\\proxyDistributeWebsiteKrak\\\\client\\\\pages\\\\manage\\\\index.vue",
+    "chunkName": "pages/manage/index",
+    "_name": "_74927049"
+  },
+  {
+    "name": "newaccount",
+    "path": "/newaccount",
+    "component": "D:\\\\02.Repositories\\\\websites\\\\proxyDistributeWebsiteKrak\\\\client\\\\pages\\\\newaccount.vue",
+    "chunkName": "pages/newaccount",
+    "_name": "_7f603341"
+  },
+  {
+    "name": "manage-accountinfo",
+    "path": "/manage/accountinfo",
+    "component": "D:\\\\02.Repositories\\\\websites\\\\proxyDistributeWebsiteKrak\\\\client\\\\pages\\\\manage\\\\accountinfo.vue",
+    "chunkName": "pages/manage/accountinfo",
+    "_name": "_72bf6fdc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\02.Repositories\\\\websites\\\\proxyDistributeWebsiteKrak\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_798e2e4e"
+  }
+]
